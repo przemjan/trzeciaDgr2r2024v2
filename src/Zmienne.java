@@ -30,7 +30,8 @@ public class Zmienne {
 
         boolean sun = false; //true
 
-        // https://github.com/przemjan/czwartaDgr2r2024
+        // https://github.com/przemjan/trzeciaDgr2r2024v2
+        // Podstawowa składnia i struktury wybranych języków programowania. Proste algorytmy.
 
     }
 }
